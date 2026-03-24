@@ -1751,7 +1751,7 @@ if page == "Dashboard":
                 <span class='badge badge-solid'>Lowest cost: {flags['lowest_cost']}</span>
                 <br><br><b>Recommendation:</b><br>{rec_html}
                 </div>
-                """,
+                """
                 unsafe_allow_html=True,
             )
     st.markdown(

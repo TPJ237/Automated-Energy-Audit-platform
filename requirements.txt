@@ -3,3 +3,8 @@ pandas
 huggingface_hub
 pypdf
 python-docx
+numpy
+plotly.graph_objects
+plotly.express
+datetime
+
